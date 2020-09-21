@@ -30,7 +30,7 @@ const WaitingHere = props => (
             <Line>I’m walking in the light of You</Line>
             <Line>Your Word, the lamp</Line>
             <Line>has shown me truth</Line>
-            <Line>￼￼I’m walking in the light of You</Line>
+            <Line>I'm walking in the Light of You</Line>
             <Line>Everyday my feet will follow You</Line>
         </Verse>
         <Verse name="three" repeat>

@@ -64,9 +64,7 @@ const TreasuredPossession = props => (
                 Oh Master <Yahweh /> there is none like You
             </Line>
             <Line>creation resounds with Your praise</Line>
-            <Line>
-                ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼The ones You establish are never moved
-            </Line>
+            <Line>The ones You establish are never moved</Line>
             <Line>they walk in the light of Your face</Line>
         </Verse>
         <Repeat name="three" />
